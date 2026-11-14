@@ -7,7 +7,7 @@
 
 **Plan Smarter. Stay Organized. Get Things Done.**
 
-<img src="01.png" alt="TaskMate Project Cover" width="100%">
+<img src="01.png" alt="TaskMate Project Cover" width="50%">
 
 <br>
 
