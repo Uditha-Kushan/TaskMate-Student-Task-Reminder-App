@@ -7,7 +7,7 @@
 
 **Plan Smarter. Stay Organized. Get Things Done.**
 
-<img src="cover.png" alt="TaskMate Project Cover" width="100%">
+<img src="1.png" alt="TaskMate Project Cover" width="100%">
 
 <br>
 
@@ -16,7 +16,7 @@ designed to help students organize their academic responsibilities.
 
 <br>
 
-[🚀 View Figma Prototype](https://www.figma.com/proto/yHxspOvJMDUf39NCDosacp/Untitled?node-id=95-322&p=f&t=BnRpj7fsC3d1fEXk-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=95%3A2)
+[🚀 View Figma Prototype](https://www.figma.com/proto/yHxspOvJMDUf39NCDosacp/Untitled?node-id=95-9&p=f&t=N71yFwrDUm8XtzBB-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=95%3A2)
 
 </div>
 
